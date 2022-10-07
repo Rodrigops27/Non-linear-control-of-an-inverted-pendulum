@@ -64,6 +64,10 @@ Tuning k1 to 0.319 for the model 3, with this "acceptable" behavior:
 
 
 
+https://user-images.githubusercontent.com/92366584/194668181-e271f7ac-270b-4b3e-88fa-62621dc8b5a2.mp4
+
+
+
 
 Project developed under the M1_EPICO_COSYS Control system class leaded by Frank Plestan at École Centrale de Nantes.
 All rights reserved to them.
